@@ -1,0 +1,30 @@
+.container{
+    cursor: pointer;
+    width: 25%;
+}
+
+.child{
+    padding-left: 10px;
+    border-radius: 1px solid red;
+}
+
+.show{
+    display: block !important;
+}
+
+.showbutton {
+    display: block !important;
+}
+
+.hide{
+    display: none;
+}
+
+.float{
+    float:right
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
